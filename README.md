@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Nmesoma</h1>
-<h3 align="center">A Software Developer </h3>
+<h3 >Hi there👋, I'm Nmesoma</h1>
+<h3 >A Software Developer </h3>
 
 ### 🌟 About Me
 
@@ -10,19 +10,25 @@
 - 👯 I’m open to collaborate on **frontend projects** , **open-source contributions** and **hackathons**.  
 - ⚡ Fun fact: **I’m an ambivert .**
 
-### 📫 Connect With Me
+### 📫 Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/nmesoma-nnopu-39836529a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="nnopujane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/NmesomaNnopu?t=G5ZmooDkX8xYMxnPnGYPSQ&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nmesoma-nnopu-39836529a">LinkedIn</a>
+<a href="nnopujane@gmail.com">Email</a>
+<a href="https://x.com/NmesomaNnopu?t=G5ZmooDkX8xYMxnPnGYPSQ&s=09">Twitter</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+<p >
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=transparent&hide_border=true"
+  alt="GitHub Stats" height="165" />
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=transparent&hide_border=true"
+  alt="Top Languages" height="165" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nmesomajane&theme=transparent)
 
 
 
