@@ -18,14 +18,11 @@
 </p>
 
 <p >
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=transparent&hide_border=true"
-  alt="GitHub Stats" height="165" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=transparent" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=transparent" alt="Top Languages" height="165"/>
+</p>
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=transparent&hide_border=true"
-  alt="Top Languages" height="165" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nmesomajane&theme=transparent)
