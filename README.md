@@ -47,8 +47,7 @@ Tools & Workflow
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=radical&hide_border=true&bg_color=white&title_color=black&icon_color=F8D866&text_color=black" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmesomajane&show_icons=true&theme=radical&hide_border=true&bg_color=white&title_color=black&icon_color=F8D866&text_color=black" alt="GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmesomajane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180" />
 </p>
 
 
